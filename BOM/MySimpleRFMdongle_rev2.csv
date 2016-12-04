@@ -1,0 +1,28 @@
+Parts;Qty;Value;Package;Description;MPN
+C1;1;10n;0603;Capacitor;
+C2, C6, C11;3;100n;0603;Capacitor;
+C8;1;1u;0603;Capacitor;
+C9, C10;2;22pF;0603;Capacitor;
+C3;1;4.7u;0805;Capacitor;
+C4;1;10u;0805;Capacitor;
+C5;1;100n;0805;Capacitor;
+C7;1;1u;0805;Capacitor;
+C12;1;100u;0805;Capacitor;
+C13;1;10u;0805;Capacitor;
+LED;1;WS2812B;WS2812B;Neopixel;
+F1;1;250mA;1206;Resettable Fuse PTC;
+L1, L2;2;BLM18PG221SN1D;0603;Ferrite bead;
+R1;1;10k;0603;Resistor;
+R2, R3;2;4.7k;0603;Resistor;
+R4, R6;2;56k;0603;Resistor;
+R5;1;330;0603;Resistor;
+Y1;1;32,768Khz;CRYSTAL-SMD-2.0X1.2;Crystal 32,768Khz 2.0X1.2mm;
+U1;1;MCP1700, XC6206 etc..;SOT23-3;250 mA LDO Regulator;
+U2;1;ATSHA204A;SOT23-3;Signing ic;
+U3;1;24AA02E64T-I/OT;SOT-23-5;EUI64 I2C Eeprom;
+U4;1;ATSAMD21E17A-AU;TQFP32;ATSAMD21ESAMD;
+U5;1;TPD2E1B06DRLR;SOT-553-6;;
+U6;1;RADIO;;RFM69HCW/RFM95;
+RESET;1;1101NE;2pins tactile switch;1101NE tactile switch;
+X1;1;USB;;USB A Male;
+;1;SMA;SMA_EDGE;SMA Connector;

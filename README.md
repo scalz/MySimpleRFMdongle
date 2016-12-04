@@ -8,10 +8,10 @@ Tested with RFM69 and RFM95.
 Just plug it, no usb cable!
 
 Revision 1
-<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/MySimpleRFMdongle_rev1.jpg" alt="
+<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/MySimpleRFMdongle_rev1.jpg" alt=">
 
 Revision 2
-<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/MySimpleRFMdongle_rev2.png" alt="
+<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/MySimpleRFMdongle_rev2.png" alt=">
 Not assembled yet
 
 		
@@ -38,7 +38,7 @@ Not assembled yet
 - USB for uploading sketch
 
 ####Arduino Pin description
-| Arduino Pin | description |
+| Arduino Pin | Description |
 |---|---|---|
 | 5 | Radio Interrupt Pin |
 | 7 | ATSHA204A sot23 ic pin (for authentication) |
@@ -75,10 +75,10 @@ The example sketch is for Mysensors v2.x. This is simply the Serial GW sketch wi
 ###Overview
 ------
 
-<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/schematic.png.jpg" alt="
+<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/schematic.png.jpg" alt=">
 
 In Mysensors Serial GW mode, debugging another atsam Mysensors node. 
-<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/gw_with_node.jpg" alt="
+<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/gw_with_node.jpg" alt=">
 
 ###Known issues
 ------ 
@@ -106,7 +106,7 @@ Always special thanks to:
 - Mysensors Team for its great work
 - Mattairtech, Adafruit, Sparkfun, TI, Atmel etc.. for all educational infos they share
 
-###Links, reference and license** 
+###Links, reference and license
 ------
 - https://www.openhardware.io/view/82/My-simple-sniffer-dongle
 
