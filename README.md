@@ -8,10 +8,10 @@ Tested with RFM69 and RFM95.
 Just plug it, no usb cable!
 
 Revision 1
-<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/MySimpleRFMdongle_rev1.jpg" alt=">
+<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/MySimpleRFMdongle_rev1.jpg" alt="dongle rev1">
 
 Revision 2
-<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/MySimpleRFMdongle_rev2.png" alt=">
+<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/MySimpleRFMdongle_rev2.png" alt="dongle rev2">
 Not assembled yet
 
 		
@@ -75,10 +75,10 @@ The example sketch is for Mysensors v2.x. This is simply the Serial GW sketch wi
 ###Overview
 ------
 
-<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/schematic.png.jpg" alt=">
+<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/schematic.png.jpg" alt="schematic">
 
 In Mysensors Serial GW mode, debugging another atsam Mysensors node. 
-<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/gw_with_node.jpg" alt=">
+<img src="https://raw.githubusercontent.com/scalz/MySimpleRFMdongle/development/img/gw_with_node.jpg" alt="gateway mode">
 
 ###Known issues
 ------ 
