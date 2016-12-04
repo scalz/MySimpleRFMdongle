@@ -1,0 +1,18 @@
+August 15 2016 (Scalz):
+    MySimpleRFMdongle v1 
+	
+    Features:
+		It is a simple 32bits ATSAM USB dongle with RFM95W and RFM69HCW radio support.
+		- Size 42.5*16.9 (mm) 
+		- MCU ARM M0+ ATSAMD21E16/17/18 (same family as Arduino Zero but with 32pins) 
+		- Eeprom EUI64 Eeprom 
+		- Authentication security  ATSHA204A chip footprint 
+		- Onboard led  WS2812B RGB 
+		- USB A male connector with fuse, antiesd, filtering
+		- RFM69HCW or RFM95W. SMA connector 
+		- Reset button 		
+   
+    Known issues: 
+		
+
+
